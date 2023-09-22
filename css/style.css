@@ -33,7 +33,7 @@ img {
   padding-top: 120px;
   padding-bottom: 120px;
 }
-.header {
+.header-top {
   background-color: #ffffff;
   padding-top: 24px;
   padding-bottom: 24px;
@@ -71,7 +71,7 @@ img {
 .header-container {
   display: flex;
 }
-.header {
+.header-top {
   border-bottom: 1px solid #e7e9fc;
 }
 .header-menu {
