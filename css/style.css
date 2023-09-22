@@ -173,6 +173,7 @@ img {
 .achievements-container {
   display: flex;
 }
+
 .list-title {
   position: absolute;
   width: 1px;
