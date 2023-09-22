@@ -355,4 +355,5 @@ img {
 .footer-section {
   flex-direction: column;
   width: 264px;
+  margin-left: 156px;
 }
