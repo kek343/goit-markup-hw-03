@@ -272,7 +272,6 @@ img {
   list-style: none;
   display: flex;
   gap: 24px;
-  flex-basis: auto;
   flex-wrap: wrap;
   row-gap: 48px;
 }
